@@ -11,7 +11,7 @@ on:
         required: true
       username:
         description: 'Username'
-        default: 'ZUser'
+        default: 'akib'
         required: true
       password:
         description: 'Password (minimum 8-10 numbers/characters)'
