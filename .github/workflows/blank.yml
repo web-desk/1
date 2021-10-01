@@ -1,4 +1,4 @@
-name: Windows (Ngrok RDP)
+name: Windows (Ngrok RDyP)
 
 on: 
   workflow_dispatch:
